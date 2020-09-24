@@ -2,4 +2,4 @@
 My page
 Kanokporn Saewoon 
 นางสาว กนกพร แซ่หวุ่น
-![image](files/Users/jzhang/Desktop/mdd.jpg)
+![image](mdd.jpg)
