@@ -2,4 +2,4 @@
 
 Kanokporn Saewoon 
 นางสาว กนกพร แซ่หวุ่น
-![image](mdd.JPG)
+![image](mdd.jpg)
